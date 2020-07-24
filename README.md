@@ -6,5 +6,6 @@ They are a constant work in progress, and will be updated on a regular basis whe
 
 Feel free to submit a pull request to evolve any of the artifacts, and leave GitHub issues if you have any questions, comments, or feedback.
 - [Developer](http://https://developers.files.com/)
+- [Swagger](https://app.files.com/api/rest/v1/swagger_doc.json)
 
 The [APIs.json](https://github.com/api-evangelist/brickftp/blob/master/apis.json) index provides links to all the relevant links for the BrickFTP APIs, including the OpenAPI and Postman if they are present.
